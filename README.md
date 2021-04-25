@@ -13,4 +13,4 @@ activity, it is a cell array with the name of the corresponding activity.
 
 ID corresponds to a unique identifier for each participant of the experiments. In other words, the measures associated with the same ID correspond to the same person.
 
-
+Reference : https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2013-84.pdf
